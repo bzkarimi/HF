@@ -12,7 +12,7 @@ Copyright &copy; 2016 Borna Zandkarimi
 4. The basis sets are in a file named "Basis.txt".  
 5. The coordinates of atoms are in a file named "input.xyz".  
 6. The final results will be saved in a file named "Output.txt".  
-7. The description of each variable can be found as comment in the header of HF.f90.  
+7. The description of each variable can be found as comment in the header of "HF.f90".  
 
 ## **Basis.txt**:
 
