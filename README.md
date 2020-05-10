@@ -1,6 +1,6 @@
-# HF
+# RHF
 
-A simple HF code
+A simple RHF code
 
 Copyright &copy; 2016 Borna Zandkarimi
 
