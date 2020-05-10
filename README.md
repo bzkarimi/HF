@@ -11,24 +11,24 @@ In the "makefile" please change LIB to the directory in which the LAPACK is inst
 ## **Basis.txt**:
 
 Title  
-Basis set &nbsp;
-atom1name               atomcharge           slater-exponent(for scaling) &nbsp;
-Gaussian-coefficient   Gaussian-exponent &nbsp;
-Gaussian-coefficient   Gaussian-exponent &nbsp;
-. &nbsp;
-. &nbsp;
-. &nbsp;
-atom2name               atomcharge           slater-exponent(for scaling) &nbsp;
-Gaussian-coefficient   Gaussian-exponent &nbsp;
-Gaussian-coefficient   Gaussian-exponent &nbsp;
-. &nbsp;
-. &nbsp;
-. &nbsp;
+Basis set  
+atom1name               atomcharge           slater-exponent(for scaling)  
+Gaussian-coefficient   Gaussian-exponent  
+Gaussian-coefficient   Gaussian-exponent  
+.  
+.  
+.  
+atom2name               atomcharge           slater-exponent(for scaling)  
+Gaussian-coefficient   Gaussian-exponent  
+Gaussian-coefficient   Gaussian-exponent  
+.  
+.  
+.  
 
 ## **Input.xyz**:
 
-atom1   x   y   z &nbsp;
-atom2   x   y   z &nbsp;
-.       .   .   . &nbsp;
-.       .   .   . &nbsp;
-.       .   .   . &nbsp;
+atom1   x   y   z  
+atom2   x   y   z  
+.       .   .   .  
+.       .   .   .  
+.       .   .   .  
