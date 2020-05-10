@@ -10,7 +10,7 @@ In the "makefile" please change LIB to the directory in which the LAPACK is inst
 
 ## **Basis.txt**:
 
-Title &nbsp;
+Title  
 Basis set &nbsp;
 atom1name               atomcharge           slater-exponent(for scaling) &nbsp;
 Gaussian-coefficient   Gaussian-exponent &nbsp;
